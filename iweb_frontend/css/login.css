@@ -10,7 +10,7 @@
 .mainbar  .container {
 	background: #fff;
 	margin: 3em  auto  3.5em;
-	border: 1px solid #e6e6e6;
+
 	/* 边框外侧的外阴影: 水平偏移量  竖直偏移量  阴影半径  阴影颜色 */
 	box-shadow: 0  0  2px  #e6e6e6;
 	/* 边框圆角半径 */
@@ -21,8 +21,8 @@
 	font-size: 1.4em;
 	color: #FF9300;
 	line-height: 4em;
-	border-bottom: 1px solid #ddd;
-	text-align: center;
+
+
 }
 .form  .header .jump-to-login {
 	font-size: 0.8em;
@@ -64,7 +64,7 @@
 }
 .form .btn-submit {
 	width: 100%;
-	border: none;
+
 	background: #5ab33f;
 	height: 35px;
 	color: #fff;
